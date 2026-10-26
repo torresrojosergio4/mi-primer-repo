@@ -16,3 +16,7 @@ Memoria RAM: 32,0 GB (31,0 GB usable)
 
 Disco: 459 GB de 954 GB usado
 
+
+
+Dirección IP: 192.168.1.132
+
