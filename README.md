@@ -18,3 +18,4 @@ Contenido
 
 Objetivo: aprender a gestionar repositorios y trabajar con Git.
 
+Mi perfil de GitHub: [torresrojosergio4](https://github.com/torresrojosergio4)
